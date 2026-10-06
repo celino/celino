@@ -1,5 +1,7 @@
 # Hi, I'm Evandro 👋 *Fogueteiro da Holanda* 🇧🇷 🇳🇱
 
+<img src="images/evandro.png" alt="Evandro, the human behind the Kerbal avatar" width="140" align="right">
+
 A Brazilian developer living in the Netherlands, fixing Kerbal Space Program mods and launching things that (mostly) don't explode.
 
 The nickname comes from the Brazilian space community on YouTube: every time I join a [SpaceOrbit](https://www.youtube.com/@SpaceOrbit) live chat, I say *"Fogueteiro da Holanda presente!"* ("the rocket guy from Holland is here!"), and the name stuck.

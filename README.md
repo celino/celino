@@ -20,7 +20,7 @@ Lots of great KSP mods are broken or abandoned. I track down the bug, test the f
 - [ksp-moddev](https://github.com/celino/ksp-moddev): Unity 2019.4.18f1 + PartTools for KSP modding in a Docker container, no local install
 
 ## 🤖 How I work
-I use AI (Claude) as a tool: it helps me investigate bugs, write code and drafts. I review every change, test it in game, and I'm the one who approves and answers for everything I publish, even when the AI did most of the work.
+I work with an AI intern: Claudinho (Claude, by Anthropic). We plan together and nothing gets built before I approve the plan; he does most of the work and runs the automated checks; I review every change and test it in game, and we go around again until it's right. I'm the one who approves and answers for everything I publish, even when Claudinho did most of the work.
 
 ## 🎮 Streams (coming soon)
 Co-op games with friends from Europe (in English) and Brazil (in Portuguese), KSP missions and live bug hunts.
@@ -30,4 +30,4 @@ If my fixes saved your career save, you can [buy me a coffee](https://buymeacoff
 
 ---
 
-🇧🇷 **Em português:** sou brasileiro, moro na Holanda e conserto mods de Kerbal Space Program que estão quebrados ou abandonados, além de traduzir mods para o português. O apelido vem da comunidade do SpaceOrbit: em toda live, eu chego no chat com *"Fogueteiro da Holanda presente!"*. Uso IA como ferramenta, mas reviso, testo e respondo por tudo o que publico. Se quiser apoiar: [buymeacoffee.com/fogueteiro_da_holanda](https://buymeacoffee.com/fogueteiro_da_holanda).
+🇧🇷 **Em português:** sou brasileiro, moro na Holanda e conserto mods de Kerbal Space Program que estão quebrados ou abandonados, além de traduzir mods para o português. O apelido vem da comunidade do SpaceOrbit: em toda live, eu chego no chat com *"Fogueteiro da Holanda presente!"*. Trabalho com um estagiário de IA, o Claudinho (Claude, da Anthropic), mas eu aprovo o plano, reviso, testo e respondo por tudo o que publico. Se quiser apoiar: [buymeacoffee.com/fogueteiro_da_holanda](https://buymeacoffee.com/fogueteiro_da_holanda).
